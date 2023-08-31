@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .contener{
+            width: 80%;
+            height: 90vh;
+            margin: 30px auto;
+            background-color: plum;
+            position: relative;
+        }
+        
+        img{
+            width: 100%;
+        }
+        img[class*="imge"]{
+            width: 150px;
+            height: 150px;
+            position: absolute;
+        }
+        .imge1{
+            top: -50px; 
+            right: -50px;       
+        }
+        .imge2{
+            bottom: -50px;
+            left:-50px;
+        }
+        .imge3{
+            bottom: -50px;
+            right: -50px;
+        }
+        .imge4{
+            top: 270px;
+            left: 550px;
+        }
+        .imge5{
+            top: -50px;
+            left:-50px;
+        }
+        .imge6{
+            top: 250px;
+            left: -90px;
+        }
+        .imge7{
+            top: 250px;
+            right: -90px;
+        }
+        .imge8{
+            left: 550px;
+            top: -90px;
+        }
+        .imge9{
+            bottom: -90px;
+            left: 550px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="contener">
+       <img src="../img/rakhi1.webp" alt="" class="imge1">
+       <img src="../img/rakhi2.avif" alt="" class="imge2">
+       <img src="../img/rakhi3.jpg" alt="" class="imge3">
+       <img src="../img/rakhi4.webp" alt="" class="imge4">
+       <img src="../img/rakhi5.avif" alt="" class="imge5">
+       <img src="../img/rakhi3.jpg" alt="" class="imge6">
+       <img src="../img/rakhi4.webp" alt="" class="imge7">
+       <img src="../img/rakhi6.jpg" alt="" class="imge8">
+       <img src="../img/rakhi1.webp" alt="" class="imge9">
+    </div>
+</body>
+</html>
