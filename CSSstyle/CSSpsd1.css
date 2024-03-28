@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    background-color: antiquewhite;
+    padding-top: 30px;
+}
+.navbar{
+    width: 100px;
+    background-color: rgb(13, 13, 63);
+    border-radius: 80px;
+    align-items: center;
+    margin-left: 120px;
+    
+}
+ul
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 10px;
+}
+li{
+    list-style: none;
+}
+.container{
+    background-color: antiquewhite;
+    height:100vh ;
+
+}
+.container h1{
+    font-size: 70px;
+    font-family: "Playfair Display";
+    padding: 45px 0px 0px 40px;
+}
+.container h4{
+    font-size: 30px;
+    font-family: "Montserrat";
+    padding: 45px 0px 0px 40px;
+
+}
+.container p{
+    
+    font-size: 17px;
+    font-family: "Montserrat";
+    text-align: left;
+    padding: 45px 0px 0px 40px;
+}
+.btn button{
+   width: 150px;
+   height: 56px;
+   font-size: 25px;
+   color: aliceblue;
+   border-radius: 28px;
+   background-color: #df581e;
+   margin:50px 0px  50px 25px;
+}
+.lamp {
+   margin-left: 70%;  
+   height: 10px;
+}
+.lamp img{
+  height: 150px;
+}
+.ilustration{
+    margin-left: 25%;
+
+}
+.ilustration img{
+   position:absolute;
+}
+.plant img{
+    height:90px ;
+    width: 55px;
+}
