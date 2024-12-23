@@ -1,0 +1,185 @@
+1)What is CSS ?
+Ans : CSS stands for Cascading Style Sheet   or is ka use web page ko style dene ke liye hota hai.
+
+2)How to include CSS in the webpage?
+Ans :      Three  ways to apply a CSS .
+        1)internal css
+        2) external css
+        3)Inline css 
+
+3)Who developed css 
+ Ans :  Hakon Wium Lie in 1996
+
+4) What is the current version of CSS?
+  Ans : CSS3 is the current version of CSS.
+
+5) Which type of CSS holds the highest priority?
+ Ans : -> inline css ko jyada priority milti hai .
+       -> second priority is internal css 
+       -> external css is the third priority of css.
+
+6)How to add Css internally in website
+ Ans : -> Head tag  ke under style tag  me internally css de sakte hai .
+
+
+7)What is the difference between margin and padding ?
+  Ans :  padding :  css me padding ki property apply krne se uska content moove krta hai
+         margin  :  css me margin ki property use krte hai to pura div move karta hai .
+
+8)How many types of selector?
+Ans :    -> four type of selector.
+        1)basic selector
+        2)Pseudo selector
+        3)Group selector
+        4)Combinator selector 
+
+9)What is the basic selector?
+  1)id selector
+  2)class selector
+  3)universal selector
+  4)attribute selector
+  5)element selector
+
+10)How can you hide an element using CSS?
+Ans :   -> three types se hide kr skte hai .
+       Visibility :hiden ,visibility visible
+       Opacity:0 to 1
+       Display none.
+
+11)what is the box model of CSS ?
+Ans :   Box modal se web page structure and de sakte  uski property use krke de sakte hai Margin,border,paddind, Content,
+
+12)What is selector?
+Ans : Css selector se html element ko select krke style apply kr sakte hai .
+
+13)Why do we use css?
+Ans :   ->  basically hm css ka use web page  ko style dene k liye or hamre website ko color ,position ,background property de ke or     
+      jyada beautiful bnane ke liye use krte hai.
+
+
+14)What is the id selector in css ? 
+   - Id hai wo uniq hoti hai.
+   - Usko # se assign krte hai.
+   - Id de kr hm css apply kr sakte hai
+
+15)How can you add a background color to an element using CSS?
+Ans : Background color property ka use krke color assign kr sakte hai.
+
+16)What is class in css?
+  -Class ko hm (. ) se assign kr sakte hai .
+  -Class same de sakte hai 
+  -Class hai wo uniq nahi hota 
+
+17))What is the difference between grid  and flex ?
+Ans :  Grid two dimensional system hai  row and column.
+       Flex one dimensional  hai
+    
+18)how many types of position in css?
+Ans :     1-> position relative  2-> absolute  3-> fixed  4->static  5->sticky
+
+
+19) What is the background  property ?
+ Ans :-> background color
+      -  background  image
+      - background clip
+      - background origin
+      - background size
+      - background attachment
+      - background  position
+
+20)how do you change the font size of an element in CSS?
+Ans : Font size change karne ke liye Font size ki property  ka use krke  unit de ke (px,%,rem,..)
+
+21)CSS advantages ?
+ Ans :  - Easy to maintain
+        - time saving.
+        - responsive design.
+
+
+22)What is responsive design?
+ Ans :-  web pages that look good on all devices.
+      -automatically adjust for different  screen size
+
+23)what are properties for flex box?
+-flex-direction
+-flex-grow
+-Flex-shrink
+-flex-wrap
+-flex-flow
+
+24)What is  z-index?
+  -> image ko overlap karne ke liye z-index ka use hota hai .
+
+25) What is CSS gradient?
+Ans : ->e.x. Koi box ke under ek se jyda color apply krne ke liye gradient ka use hota hai .
+       - linear gradient
+       - conic gradient
+       - radial gradient.
+
+26)What is text-decoration property?
+Ans : -text-decoration:underline,
+    -text-decoration:overline,
+    -text-decoration:line through
+    -text-decoration:underline-overline.
+
+27)What is a pseudo-class in CSS?
+ - pseudo class ek keyword ko  add krta hai as a selector jo special state select krta hai jaise ki  
+   :hover ,:active, :focus :link
+
+
+28)How do you align text to the center in CSS?
+   Text align is the property of css.
+   Using the Text Align property we can center the element.
+   And it also has other values like left,right.
+
+
+29)What is letterSpacing in css.
+ Ans :Letter Spacing is the property in css
+      to create a space in word.
+
+30)What is Animation in css ?
+ Ans :Animation is the property in css
+      Which is used to create a animation like moving any element from to other place
+
+31)What is the purpose of the outline property in CSS?
+Ans :The outline property is draw a border around an element.
+
+32)what is text transform in css?
+Ans : Basically Text transform are used to convert text uppercase and lowercase and capitalize.
+
+33)What is the purpose of the outline property in CSS?
+ Ans :The outline property is draw a border around an element.
+
+34)What is the use of the background-position property?
+Ans :   background-position property is used to change the background-position of an background image vertically and horizontally.
+       there are some value  1.top,2.left,3.right,4.bottom
+
+35)What is the gap in css ?
+Ans :   Gap is the property in css.
+        Which is basically used to create a space between elements of sibling.
+        There are two properties in css (1)column gap (2)row-gap.
+
+36)what are the selector of combinator
+          There have four selector in css
+          (1)descendant selector (space )
+          (2)child selector (>)
+          (3)general sibling selector (~)
+          (4)Adjacent sibling selector (+)
+
+37)how to comment in css?
+Ans :The comments in CSS can be added with /* and */
+
+38)how do you combine multiple media features?
+ Ans :Use the “and” keyword to combine media feature.
+
+39) What is the difference between inline,  and block?
+Ans :  Block Element: The block elements always start on a new line like <div> and p.
+
+       Inline Elements: Inline elements don't start on a new line  Some examples of inline elements are <a>,
+       <span> , <strong>, and <img> tags.
+
+40)what are the selector of Pseudo selector
+ Ans : There are two selector
+       1)Pseudo class 2) pseudo element 
+
+
